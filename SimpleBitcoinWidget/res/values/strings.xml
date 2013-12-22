@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">SimpleBitcoinWidget</string>
+	<string name="testViewText">Test</string>
+	<string name="valueUrl">http://coinbase.com/api/v1/prices/spot_rate</string>
+</resources>
